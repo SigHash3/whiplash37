@@ -1,4 +1,4 @@
-### Hi there, I adore building complex systems and securing them with elegant code :coffee: :closed_lock_with_key: 👋
+### Hi! I adore building complex systems and securing them with elegant code :coffee: :closed_lock_with_key: 👋
 
 <!--
 **whiplash37/whiplash37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
